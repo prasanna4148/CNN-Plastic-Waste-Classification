@@ -82,15 +82,39 @@ This section will be updated weekly with progress details and corresponding Jupy
   - Explored the dataset structure.  
   - Note: If the file takes too long to load, you can view the Kaggle notebook directly [Kaggle Notebook](https://www.kaggle.com/code/prasanna4149/cnn-plastic-waste-classification).  
 
-- **Notebooks:**  
-  - [Week1-Libraries-Importing-Data-Setup.ipynb](Week1-Libraries-Importing-Data-Setup.ipynb)  
-  - [Kaggle Notebook](https://www.kaggle.com/code/prasanna4149/cnn-plastic-waste-classification)  
 
-### Week 2: TBD  
-*Details to be added after completion.*  
+### **Week 2: Model Training, Evaluation, and Predictions**  
+- **Date:** 28th January 2025 - 31st January 2025  
+- **Activities:**  
+  - Trained the CNN model on the dataset.  
+  - Evaluated model performance using accuracy and loss metrics.  
+  - Visualized classification results with a confusion matrix.  
 
-### Week 3: TBD  
-*Details to be added after completion.*  
+
+### **Week 3: Streamlit App and Model Deployment**  
+- **Date:** 4th February 2025 - 7th February 2025  
+- **Activities:**  
+  - Developed a **Streamlit web application** for real-time waste classification.  
+  - Uploaded the trained model to **Kaggle and GitHub** for public access.  
+  - Finalized the **project documentation and README formatting**.
+
+
+## Technologies Used  
+- Python  
+- TensorFlow/Keras  
+- OpenCV  
+- NumPy  
+- Pandas  
+- Matplotlib  
+- Streamlit  
+
+## Future Scope  
+- Expanding the dataset to include more plastic waste categories.  
+- Improving model accuracy using transfer learning.  
+- Deploying the model as a mobile application.  
+
+## Contributing  
+Contributions are welcome! Open an issue or submit a pull request.  
 
 ## How to Run  
 1. Clone the repository:  
